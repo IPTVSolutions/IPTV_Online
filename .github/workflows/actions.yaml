@@ -3,7 +3,7 @@ name: Run Files Sequentially on Windows
 on:
   workflow_dispatch: # Allows manual triggering of the workflow
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   run-files:
