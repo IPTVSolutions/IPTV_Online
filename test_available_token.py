@@ -50,7 +50,7 @@ if m3u8_url:
     # Check if the extracted M3U8 URL is playable
     if is_m3u8_playable(m3u8_url):
         print(f"The stream for {channel_name} is Playable.")
-        sys.exit(0)
+        sys.exit(1)
     else:
         print(f"The stream for {channel_name} is Not Playable.")
 else:
