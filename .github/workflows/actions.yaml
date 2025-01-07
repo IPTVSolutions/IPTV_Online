@@ -19,8 +19,7 @@ jobs:
           python-version: '3.11' # Specify a stable Python version
 
       - name: Install Python libraries
-        run: |
-          #python -m pip install --upgrade pip
+        run: 
           pip install selenium requests urllib3 regex
 
       - name: Check if BG token is valid
