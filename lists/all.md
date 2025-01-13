@@ -18,6 +18,14 @@
 | 34  | Kral Pop Tv     | [>](https://www.youtube.com/watch?v=GuFTuKoXepw) | <img height="20" src="https://i.imgur.com/IebUZx1.png"/> |
 | 34  | Power Tv     | [>](https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/IebUZx1.png"/> |
 
+| 16  | Avto Radio | [>](http://stream.metacast.eu/avtoradio.mp3.m3u) |
+| 16  | City Radio | [>](http://stream.metacast.eu/city.aac.m3u) |
+| 16  | Energy 90s Radio | [>](http://stream.metacast.eu/energy-90s.m3u) |
+| 16  | Nova Radio | [>](http://stream.metacast.eu/nova.aac.m3u) |
+| 16  | Energy Radio | [>](http://stream.metacast.eu/nrj.aac.m3u) |
+| 16  | Radio 1 | [>](http://stream.metacast.eu/radio1.aac.m3u) |
+| 16  | Radio 1 Rock | [>](http://stream.metacast.eu/radio1rock.aac.m3u) |
+| 16  | Veronika Radio | [>](http://stream.metacast.eu/veronika.aac.m3u) |
 
 | 11  | City TV | [>](https://tv.city.bg/play/tshls/citytv/index.m3u8) |
 | 12  | The voice | [>](https://bss1.neterra.tv/thevoice/thevoice.m3u8) |
@@ -25,6 +33,7 @@
 | 14  | Magic Tv | [>](https://bss1.neterra.tv/magictv/magictv.m3u8) |
 | 15  | Tiankov tv | [>](https://streamer103.neterra.tv/tiankov-folk/live.m3u8) |
 | 16  | Tiankov orient tv | [>](https://streamer103.neterra.tv/tiankov-orient/live.m3u8) |
+
 <<<<<<< HEAD
 | 1 | BNT1 | [>](https://ymkaya.xyz:24884/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDI1IDc6MjE6NDEgUE0maGFzaF92YWx1ZT1QWktYMHQ1TllQd1FvV2JhNG9hZUhnPT0mdmFsaWRtaW51dGVzPTYw) |
 | 1 | Nova TV | [>](https://ymkaya.xyz:24884/tv/novatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDI1IDc6MjI6MTcgUE0maGFzaF92YWx1ZT1IaFE2aC9Vekx5L1MvY0I0MXF0U1RBPT0mdmFsaWRtaW51dGVzPTYw) |
