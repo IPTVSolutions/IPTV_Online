@@ -56,37 +56,37 @@ https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 #EXTINF:-1 tvg-name="Tiankov orient tv" tvg-logo="" group-title="All TV",Tiankov orient tv
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:-1 tvg-name="BNT1" tvg-logo="" group-title="All TV",BNT1
-https://ymkaya.xyz:18061/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDA6MDIgUE0maGFzaF92YWx1ZT1SZnl2T0lpNW9KWGhIWXRtV053U293PT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDM6NDEgUE0maGFzaF92YWx1ZT0xQzNvNHVjTmpJNWVYZ3QxNUZ0S3Z3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Nova TV" tvg-logo="" group-title="All TV",Nova TV
-https://ymkaya.xyz:18061/tv/novatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDA6MTUgUE0maGFzaF92YWx1ZT1OenVFMW9IL2RGNTVVVlduUDJUM2RnPT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/novatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDM6NTAgUE0maGFzaF92YWx1ZT00UmxhOEM3KzBvVG5iaFc3aGpzbEJnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="AXN" tvg-logo="" group-title="All TV",AXN
-https://ymkaya.xyz:18061/tv/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDA6MjYgUE0maGFzaF92YWx1ZT1Ea1ZJT0M2ZnFDUWxHYnJ4QitPSnN3PT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDQ6MDAgUE0maGFzaF92YWx1ZT1hbkRnUko0SFh4NGVzTlBkZG9Hcm9BPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="FOX Life" tvg-logo="" group-title="All TV",FOX Life
-https://ymkaya.xyz:18061/tv/foxlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDA6MzYgUE0maGFzaF92YWx1ZT1EVmhGUWgzb2REZFlpSmc3RDlhNDl3PT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/foxlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDQ6MTAgUE0maGFzaF92YWx1ZT1wS3VjLy9Gc1NXRkNOQ3M0TlpxazZ3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Star Crime" tvg-logo="" group-title="All TV",Star Crime
-https://ymkaya.xyz:18061/tv/foxcrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDA6NDYgUE0maGFzaF92YWx1ZT1PdUpHVHdBYnNFWHhHYzYwMER0SndBPT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/foxcrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDQ6MjAgUE0maGFzaF92YWx1ZT1jNmV0WGk1Yk8zY2VXdEI2ZU9rUHdBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Nova Sport" tvg-logo="" group-title="All TV",Nova Sport
-https://ymkaya.xyz:18061/tv/novasport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDA6NTcgUE0maGFzaF92YWx1ZT1qRmFMeXU0eEtaRERvVCtiYUt3TlZ3PT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/novasport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDQ6MjkgUE0maGFzaF92YWx1ZT04YVkyYnB3VGwyM3puVTZHUGJwZmpBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Ring BG" tvg-logo="" group-title="All TV",Ring BG
-https://ymkaya.xyz:18061/tv/ringbg/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDE6MDggUE0maGFzaF92YWx1ZT1NK29mY2RQT1BxL0x5czhLUDA4U0d3PT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/ringbg/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDQ6MzkgUE0maGFzaF92YWx1ZT1mOGJpL1BDTjA3UWRRV0RQd054elF3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="BTV Comedy" tvg-logo="" group-title="All TV",BTV Comedy
-https://ymkaya.xyz:18061/tv/btvcomedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDE6MTggUE0maGFzaF92YWx1ZT1tQ3BkY2R6ZjFQbndML1BxRk4vaEZ3PT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/btvcomedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDQ6NTEgUE0maGFzaF92YWx1ZT16RkdTZC9CcEVHUTQ0aFFjWWNFTElBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="BTV Cinema" tvg-logo="" group-title="All TV",BTV Cinema
-https://ymkaya.xyz:18061/tv/btvcinema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDE6MjggUE0maGFzaF92YWx1ZT1QYjhNYVpxSGVrZUk3aHJ1M2xkQytRPT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/btvcinema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDU6MDAgUE0maGFzaF92YWx1ZT1rUWpSRXc4R0VWMFBLS2o4dmZraGZ3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="BTV Action" tvg-logo="" group-title="All TV",BTV Action
-https://ymkaya.xyz:18061/tv/btvaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDE6MzggUE0maGFzaF92YWx1ZT1oVVNaNG9VckNqbWpkQS9YOUtJR3V3PT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/btvaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDU6MDkgUE0maGFzaF92YWx1ZT1NQ2xkRGhaN3R5YXFLT0JtQTN1MCtBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Kino Nova" tvg-logo="" group-title="All TV",Kino Nova
-https://ymkaya.xyz:18061/tv/kinonova/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDE6NDggUE0maGFzaF92YWx1ZT1mUlpydFNMVHpVeW55akI1eVBaVUJnPT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/kinonova/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDU6MTkgUE0maGFzaF92YWx1ZT04RDBpOXFJaWlJWDJDSjVzS3Q0ZU9nPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Diema Family" tvg-logo="" group-title="All TV",Diema Family
-https://ymkaya.xyz:18061/tv/diemafamily/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDE6NTcgUE0maGFzaF92YWx1ZT1sME5hWHdWdEkzRVg4dDFtOEs4VGF3PT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/diemafamily/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDU6MjkgUE0maGFzaF92YWx1ZT1SeDFYcit6cUx2MWV6eTk5VEZKemZ3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Diema" tvg-logo="" group-title="All TV",Diema
-https://ymkaya.xyz:18061/tv/diema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDI6MDggUE0maGFzaF92YWx1ZT0yOVJwRmhYY2M4djNuRHVxVExJbG1nPT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/diema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDU6MzggUE0maGFzaF92YWx1ZT1ka2xPWklRS2Vzd21MRW9hTGNHT093PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="" group-title="All TV",National Geographic
-https://ymkaya.xyz:18061/tv/natgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDI6MTcgUE0maGFzaF92YWx1ZT1DV1pQeUw2ZXVIT2lsemxOcGNTdmVRPT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/natgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDU6NDggUE0maGFzaF92YWx1ZT1TbjRTOURWZTZnZE9MS3hUWFFaazl3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="NatGeo Wild" tvg-logo="" group-title="All TV",NatGeo Wild
-https://ymkaya.xyz:18061/tv/natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDI6MjcgUE0maGFzaF92YWx1ZT1rc2p5YTdXQk1TYkNpbks4YktxQXZBPT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDU6NTcgUE0maGFzaF92YWx1ZT02QUhmMXg1UGQ3Uk1WZFRJOTY4VHd3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Discovery Tv" tvg-logo="" group-title="All TV",Discovery Tv
-https://ymkaya.xyz:18061/tv/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDE6MDI6MzcgUE0maGFzaF92YWx1ZT1oZitBZU9XWGRRSzNjaXRIV3JzeWxBPT0mdmFsaWRtaW51dGVzPTYw
+https://ymkaya.xyz:12004/tv/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI1IDY6NDY6MDcgUE0maGFzaF92YWx1ZT1SWGU0Vy9aVytVOGkvZzVVV2ptRHJRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Kino Nova" tvg-logo="" group-title="All TV",Kino Nova
 https://ymkaya.xyz:11336/tv/kinonova/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjUgNDo0MDoyMCBBTSZoYXNoX3ZhbHVlPWlFS1FrWEtMMVRFM3l5YklUWUJQUHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:-1 tvg-name="Diema Family" tvg-logo="" group-title="All TV",Diema Family
