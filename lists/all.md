@@ -35,22 +35,22 @@
 | 16  | Tiankov orient tv | [>](https://streamer103.neterra.tv/tiankov-orient/live.m3u8) |
 
 <<<<<<< HEAD
-| 1 | BNT1 | [>](https://ymkaya.xyz:11274/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDU6MzAgUE0maGFzaF92YWx1ZT1HVGFoMW9sSmh3TWpKVkdUbFJEZmx3PT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | Nova TV | [>](https://ymkaya.xyz:11274/tv/novatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDU6NDAgUE0maGFzaF92YWx1ZT16Z0ZScnBTMEVXaUM3SnppQ21IUGx3PT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | AXN | [>](https://ymkaya.xyz:11274/tv/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDU6NTMgUE0maGFzaF92YWx1ZT1DazJjaklnb2hIcVRKS2hOblEwSElBPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | FOX Life | [>](https://ymkaya.xyz:11274/tv/foxlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDY6MDMgUE0maGFzaF92YWx1ZT1uVU9HQmRQYUZPZk1SODljenpiNThBPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | Star Crime | [>](https://ymkaya.xyz:11274/tv/foxcrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDY6MTMgUE0maGFzaF92YWx1ZT1IZnBoVVVpTHhJMkgzMjdlUUI2b0x3PT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | Nova Sport | [>](https://ymkaya.xyz:11274/tv/novasport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDY6MjQgUE0maGFzaF92YWx1ZT1RakhlcmNEempRdTh0S2t6YklWczFBPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | Ring BG | [>](https://ymkaya.xyz:11274/tv/ringbg/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDY6MzQgUE0maGFzaF92YWx1ZT1kNzVNM1AyRTFGbzVhK2Q1SUlwUXFBPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | BTV Comedy | [>](https://ymkaya.xyz:11274/tv/btvcomedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDY6NDQgUE0maGFzaF92YWx1ZT1GcWtTc1UwY0Z2R0M3TlpSbGR3bUVBPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | BTV Cinema | [>](https://ymkaya.xyz:11274/tv/btvcinema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDY6NTQgUE0maGFzaF92YWx1ZT1PRnhmZ0VBbGQvNHEyVU5rVUFOZkJ3PT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | BTV Action | [>](https://ymkaya.xyz:11274/tv/btvaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDc6MDQgUE0maGFzaF92YWx1ZT1NZlRrUHJadW1TcVlnY2UrZmtCUUh3PT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | Kino Nova | [>](https://ymkaya.xyz:11274/tv/kinonova/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDc6MTQgUE0maGFzaF92YWx1ZT1uTERCT2MrNjFGQmtTaENTOHQvS2hRPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | Diema Family | [>](https://ymkaya.xyz:11274/tv/diemafamily/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDc6MjUgUE0maGFzaF92YWx1ZT1oNisyMTc1aitvUlJiL3BObTlDNXdnPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | Diema | [>](https://ymkaya.xyz:11274/tv/diema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDc6MzUgUE0maGFzaF92YWx1ZT1YUXhyUVoxdUdoNTJMa3J0aGkraTd3PT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | National Geographic | [>](https://ymkaya.xyz:11274/tv/natgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDc6NDUgUE0maGFzaF92YWx1ZT1ENEQrS0o2RVNUa3pQUS9Sc1dZYnFnPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | NatGeo Wild | [>](https://ymkaya.xyz:11274/tv/natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDc6NTUgUE0maGFzaF92YWx1ZT1sQjNaaUxSZktRSXphSjd6S2s0b0pRPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | Discovery Tv | [>](https://ymkaya.xyz:11274/tv/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDE6MDg6MDUgUE0maGFzaF92YWx1ZT1xSmYvajJiS3AzYjRqbWVYSTA0MjdRPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | BNT1 | [>](https://ymkaya.xyz:27094/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDc6NDQgUE0maGFzaF92YWx1ZT16YWhaWXdlc2dkd1RSQVZJR2Y5bDBBPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | Nova TV | [>](https://ymkaya.xyz:27094/tv/novatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDc6NTQgUE0maGFzaF92YWx1ZT1vN0tseFBkYUNCOVBtYUtvWWRvK2hBPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | AXN | [>](https://ymkaya.xyz:27094/tv/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDg6MDQgUE0maGFzaF92YWx1ZT1IWDV5V0ptSmZaMEdiOU1LNHpJanVBPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | FOX Life | [>](https://ymkaya.xyz:27094/tv/foxlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDg6MTQgUE0maGFzaF92YWx1ZT1FRGNsUGxMQWFHV3dMREZhU1J5bmVBPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | Star Crime | [>](https://ymkaya.xyz:27094/tv/foxcrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDg6MjMgUE0maGFzaF92YWx1ZT0xbFdVNmZHc0YvNlB4NzE0VkdockJRPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | Nova Sport | [>](https://ymkaya.xyz:27094/tv/novasport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDg6MzMgUE0maGFzaF92YWx1ZT1zejA1Q3BJSG1ZSGxadHliTWt1cmhRPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | Ring BG | [>](https://ymkaya.xyz:27094/tv/ringbg/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDg6NDIgUE0maGFzaF92YWx1ZT0rSXQrK3pnWEpzTitWYzl6c29Lc1h3PT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | BTV Comedy | [>](https://ymkaya.xyz:27094/tv/btvcomedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDg6NTIgUE0maGFzaF92YWx1ZT05OWFDRUl3dHZKSkZjOTk5T2V6SWJBPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | BTV Cinema | [>](https://ymkaya.xyz:27094/tv/btvcinema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDk6MDIgUE0maGFzaF92YWx1ZT1tYTE4T0FUMzE0TGNiZEM2VHhMT2JRPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | BTV Action | [>](https://ymkaya.xyz:27094/tv/btvaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDk6MTEgUE0maGFzaF92YWx1ZT00NXU3UnRqTW1zbUNDNVJIbWJUaFZnPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | Kino Nova | [>](https://ymkaya.xyz:27094/tv/kinonova/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDk6MjEgUE0maGFzaF92YWx1ZT1OdS9YcWpmeTBZZEljWFdhQWJleUFnPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | Diema Family | [>](https://ymkaya.xyz:27094/tv/diemafamily/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDk6MzAgUE0maGFzaF92YWx1ZT16aXpBdFQxUHRSYWx6WVRFRk83TUJnPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | Diema | [>](https://ymkaya.xyz:27094/tv/diema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDk6NDAgUE0maGFzaF92YWx1ZT1QamFuY1lWQU5CdUVsUE9DNVZjZHNnPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | National Geographic | [>](https://ymkaya.xyz:27094/tv/natgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDk6NTAgUE0maGFzaF92YWx1ZT1kN2V0WDBYR25VVXBTc21JNGhLYnJnPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | NatGeo Wild | [>](https://ymkaya.xyz:27094/tv/natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NDk6NTkgUE0maGFzaF92YWx1ZT1jZGNIOGdQeTB2MzV3anRRTEhUTTB3PT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | Discovery Tv | [>](https://ymkaya.xyz:27094/tv/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDY6NTA6MDkgUE0maGFzaF92YWx1ZT1xT3ZFM1ptRjllNHZnT3JueUppQ2l3PT0mdmFsaWRtaW51dGVzPTYw) |
 =======
 
 
