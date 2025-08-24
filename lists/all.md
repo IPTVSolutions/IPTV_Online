@@ -37,9 +37,9 @@
 <<<<<<< HEAD
 | 1 | BNT1 | [>](https://ymkaya.xyz:36318/tv/bnt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI1IDY6NDM6MDQgUE0maGFzaF92YWx1ZT0xTUhRT3E2UWEyOENEVkpUa2VPaml3PT0mdmFsaWRtaW51dGVzPTYw) |
 | 1 | Nova TV | [>](https://ymkaya.xyz:36318/tv/novatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI1IDY6NDM6MTQgUE0maGFzaF92YWx1ZT1EOEpJY0I2SEVtWFBQN0tJRGlwZ0Z3PT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | AXN | [>](https://ymkaya.xyz:30643/tv/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDY6MTQ6MDMgUE0maGFzaF92YWx1ZT15T0ExZ1NpK1IzZ1cyQ1R5SVoya2VBPT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | AXN | [>](https://ymkaya.xyz:31717/tv/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDY6NDQ6NDUgUE0maGFzaF92YWx1ZT1Kdld2eHM5WmM2azdOdFc4YlZsbWhBPT0mdmFsaWRtaW51dGVzPTYw) |
 | 1 | FOX Life | [>](https://ymkaya.xyz:36318/tv/foxlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI1IDY6NDM6MzQgUE0maGFzaF92YWx1ZT1RdElXSllXUHRFdmduazB6b2dEcHNBPT0mdmFsaWRtaW51dGVzPTYw) |
-| 1 | Star Crime | [>](https://ymkaya.xyz:30643/tv/foxcrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDY6MTQ6MjMgUE0maGFzaF92YWx1ZT1ldzB5aHE5Zm5WcnRXQkxCL01qVlZ3PT0mdmFsaWRtaW51dGVzPTYw) |
+| 1 | Star Crime | [>](https://ymkaya.xyz:31717/tv/foxcrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDY6NDU6MDUgUE0maGFzaF92YWx1ZT1ValhwQlB4aFQ2bXpHeE5EZFZsZ3lRPT0mdmFsaWRtaW51dGVzPTYw) |
 | 1 | Nova Sport | [>](https://ymkaya.xyz:36318/tv/novasport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI1IDY6NDM6NTMgUE0maGFzaF92YWx1ZT1WdFZYRHVjWm01V2RjWWt5ZDZpWkd3PT0mdmFsaWRtaW51dGVzPTYw) |
 | 1 | Ring BG | [>](https://ymkaya.xyz:36318/tv/ringbg/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI1IDY6NDQ6MDMgUE0maGFzaF92YWx1ZT01RlJZbjZ3eDhMcVRWYlNybHhtNzN3PT0mdmFsaWRtaW51dGVzPTYw) |
 | 1 | BTV Comedy | [>](https://ymkaya.xyz:36318/tv/btvcomedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI1IDY6NDQ6MTMgUE0maGFzaF92YWx1ZT1rYVFxaGw3TzJjUERYR0VKMVkrZmF3PT0mdmFsaWRtaW51dGVzPTYw) |
